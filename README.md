@@ -11,7 +11,7 @@
   <br>
   🌎 Actively seeking Java Full Stack opportunities across the USA.  
   <br>
-  📫 Let's connect and collaborate: [Your LinkedIn or Email].  
+  📫 Let's connect and collaborate: @Sandeepkumar.Vejendla@gmail.com
 
 </p>
 
