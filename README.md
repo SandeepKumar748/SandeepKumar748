@@ -3,15 +3,15 @@
 
 <h3 align="left">Current:</h3>
 <p align="left">
-  - 💼 Former Software Engineer at Mindtree with extensive experience in Java Full Stack Development and Automation testing.   
+  💼 Former Software Engineer at Mindtree with extensive experience in Java Full Stack Development and Automation testing.   
   <br>
-  - 💡 Skilled in building scalable web applications with Java, Python, Flask, Spring Boot, Hibernate, and React.
+  💡 Skilled in building scalable web applications with Java, Python, Flask, Spring Boot, Hibernate, and React.
   <br>
-  - 🌟 Passionate about creating seamless user experiences and robust backend systems.  
+  🌟 Passionate about creating seamless user experiences and robust backend systems.  
   <br>
-  - 🌎 Actively seeking Java Full Stack opportunities across the USA.  
+  🌎 Actively seeking Java Full Stack opportunities across the USA.  
   <br>
-  - 📫 Let's connect and collaborate: [Your LinkedIn or Email].  
+  📫 Let's connect and collaborate: [Your LinkedIn or Email].  
 
 </p>
 
