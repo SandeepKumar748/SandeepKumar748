@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">🎓 Master’s in Computer Science graduate from the University of Central Missouri (December 2024).</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Current:</h3>
 <p align="left">
+  - 💼 Former Software Engineer at Mindtree with extensive experience in Java Full Stack Development and Automation testing.   
+  <br>
+  - 💡 Skilled in building scalable web applications with Java, Python, Flask, Spring Boot, Hibernate, and React.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
